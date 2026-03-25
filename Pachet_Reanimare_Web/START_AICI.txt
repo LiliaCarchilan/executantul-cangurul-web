@@ -1,0 +1,25 @@
+PACHET REANIMARE WEB - EXECUTANTUL CANGURUL
+
+Folderul contine fisierele noi si fisierele principale modificate pentru integrarea aplicatiei vechi in varianta web.
+
+Fisiere importante:
+- index.html
+- drawer_free.html
+- REVIVAL_PLAN.md
+- js\cng_parser.js
+- js\drawer.js
+
+Cum rulezi:
+1. Deschide index.html din folderul principal al proiectului:
+   D:\Documente 2025_2026\Informatica 2025-2026\Clasa 8 informatica\Algoritmi și executanți\ExecutantulKanguru\index.html
+
+2. In aplicatie apasa pe iconita de deschidere.
+
+3. Alege un fisier .cng din:
+   D:\Cangurul\Ex_Cangur
+
+4. Apasa Start sau Pas.
+
+Observatie:
+Acest folder este un pachet de orientare cu fisierele create/modificate.
+Pentru rulare corecta, aplicația trebuie pornita din folderul principal al proiectului, deoarece foloseste si alte fisiere din js\ si Media\.

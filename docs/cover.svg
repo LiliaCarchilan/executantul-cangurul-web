@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#edf7fb"/>
+      <stop offset="100%" stop-color="#d2e6ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffe600" stroke-width="2" stroke-dasharray="5 6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" rx="28" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="546" rx="22" fill="#ffffff" stroke="#8fb8c8" stroke-width="4"/>
+
+  <g transform="translate(80 86)">
+    <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#15394a">
+      Executantul Cangurul
+    </text>
+    <text x="0" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#40616f">
+      Aplicatie web didactica pentru algoritmi, compatibila cu fisierele .cng
+    </text>
+  </g>
+
+  <g transform="translate(76 180)">
+    <rect x="0" y="0" width="410" height="330" rx="16" fill="#fbfbfb" stroke="#d8e3e8"/>
+    <rect x="0" y="0" width="410" height="48" rx="16" fill="#f0f4f6"/>
+    <text x="26" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#314852">
+      Exemplu .cng
+    </text>
+    <text x="24" y="88" font-family="Consolas, monospace" font-size="22" fill="#234">
+      REPETA 4 ORI
+    </text>
+    <text x="24" y="126" font-family="Consolas, monospace" font-size="22" fill="#234">
+      PAS
+    </text>
+    <text x="24" y="164" font-family="Consolas, monospace" font-size="22" fill="#234">
+      ROTIRE
+    </text>
+    <text x="24" y="202" font-family="Consolas, monospace" font-size="22" fill="#234">
+      SFIRSITUL REPETARII
+    </text>
+    <rect x="24" y="248" width="116" height="42" rx="10" fill="#dd4b39"/>
+    <text x="58" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">
+      Start
+    </text>
+    <rect x="154" y="248" width="116" height="42" rx="10" fill="#3a89de"/>
+    <text x="196" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff">
+      Pas
+    </text>
+  </g>
+
+  <g transform="translate(560 132)">
+    <rect x="0" y="0" width="550" height="430" rx="18" fill="#ffffff" stroke="#9fc0cd" stroke-width="3"/>
+    <rect x="34" y="34" width="482" height="362" rx="10" fill="#c7c7c7"/>
+    <rect x="34" y="34" width="482" height="362" rx="10" fill="url(#grid)"/>
+    <g transform="translate(72 64)">
+      <path d="M90 34c18-12 38-20 63-20 12 0 24 3 33 10-9 5-19 10-29 13 18 7 30 19 35 37-11-2-23-7-34-13 3 11 4 22 2 33-13-10-22-23-25-39-7 34-27 62-61 85l-14-16c25-19 42-42 47-67-10 13-24 25-40 34l-9-20c17-8 31-19 42-32-11 5-22 8-34 8l4-21c15-1 29-6 41-13-11-1-21-5-31-11z" fill="#8f4200"/>
+      <circle cx="168" cy="31" r="4" fill="#111"/>
+    </g>
+    <text x="34" y="420" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#40616f">
+      Suprafata de lucru 40 x 40, grila vizibila, compatibilitate cu exemplele istorice
+    </text>
+  </g>
+</svg>
