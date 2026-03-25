@@ -1,0 +1,21 @@
+{
+  "name": "Executantul Cangurul",
+  "short_name": "Cangurul",
+  "description": "Aplicatie didactica web pentru algoritmi, compatibila cu fisierele istorice .cng.",
+  "lang": "ro",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#8fb8c8",
+  "icons": [
+    {
+      "src": "./Media/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
